@@ -30,9 +30,13 @@ Follow these steps to install and run the SETTLE app on your mobile device:
 
 We'd like to thank the following people for their contributions to the project:
 
-- [@username1](https://github.com/username1) - Major feature development and bug fixes
-- [@username2](https://github.com/username2) - UI design and testing
-- [@username3](https://github.com/username3) - Documentation and user feedback
+- [@username1](https://github.com/SerjoschDuering) - Major feature development and bug fixes
+- [@username2](https://github.com/STASYA00) - UI design and testing
+
+
+- [@username3](https://github.com/Sewanmpm) - Documentation and user feedback
+- [@username3](https://github.com/ChenghenChen) - Documentation and user feedback
+- [@username3](https://github.com/erfanera) - Documentation and user feedback
 
 ## Special Thanks
 
