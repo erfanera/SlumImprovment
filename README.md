@@ -26,19 +26,23 @@ Follow these steps to install and run the SETTLE app on your mobile device:
 [![Join the Exhibition](https://img.shields.io/badge/Join-Exhibition-blue)](https://example.com/exhibition)  
 *Sign up for our upcoming exhibition and discover how SETTLE can revolutionize your neighborhood!*
 
-## Contributors
+## Instructors:
+- Angelos Chronis
+- Oana Taut
+
+## Technical Assistants
 
 We'd like to thank the following people for their contributions to the project:
 
-- [@username1](https://github.com/SerjoschDuering) - Major feature development and bug fixes
-- [@username2](https://github.com/STASYA00) - UI design and testing
+- [@SerjoschDuering](https://github.com/SerjoschDuering) - Major feature development and bug fixes
+- [@STASYA00](https://github.com/STASYA00) - UI design and testing
 
 
-- [@username3](https://github.com/Sewanmpm) - Documentation and user feedback
-- [@username3](https://github.com/ChenghenChen) - Documentation and user feedback
+## Team Members
+- [@Sewanmpm](https://github.com/Sewanmpm) - Documentation and user feedback
+- [@ChenghenChen](https://github.com/ChenghenChen) - Documentation and user feedback
+- [@ChenghenChen](https://github.com/josho08) - Documentation and user feedback
 - [@username3](https://github.com/erfanera) - Documentation and user feedback
 
-## Special Thanks
 
-A special thank you to [@special-contributor](https://github.com/special-contributor) for inspiring this project and providing valuable insights.
 
