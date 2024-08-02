@@ -16,3 +16,12 @@ Follow these steps to install and run the SETTLE app on your mobile device:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/settle.git
+
+
+## Quick Links
+
+[![Download SETTLE](https://img.shields.io/badge/Download-SETTLE-brightgreen)](https://example.com/download)  
+*Get the latest version of SETTLE and start transforming your community today!*
+
+[![Join the Exhibition](https://img.shields.io/badge/Join-Exhibition-blue)](https://example.com/exhibition)  
+*Sign up for our upcoming exhibition and discover how SETTLE can revolutionize your neighborhood!*
